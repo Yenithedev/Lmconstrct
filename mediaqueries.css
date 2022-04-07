@@ -1,0 +1,130 @@
+@media screen and (max-width: 1000px){
+	.navbar ul{
+	flex-wrap: wrap;
+	padding: 0px 0px 0px 0px;
+	background-color: rgba(0, 22, 67, 0.5);
+	width: 100%;
+	
+	}
+	.navbar_toggle{
+	display: block;
+	margin-top: 5px;
+	font-size: 40px;
+	}
+	.navbar_links{
+	width: 100%;
+	text-align: center;
+	display: none;
+	}
+	.color_1{
+	color: #000;
+	}
+	.navbar li{	
+	list-style-type: none;
+	padding: 15px 30px;
+	color: #000;
+	}
+	.pic_word_margin{
+	margin-top: 230px;
+	}
+	.active_2{
+	display: block;
+	}
+	.color_3{
+	color: #0052FF;
+	}
+	.navbar_logo{
+	font-size: 20px;
+	margin-top: 15px;
+	}
+	.aboutus{
+		margin-bottom: 20px;
+	}
+	.flexfeanav{
+		margin: 0px 0px 68px 0px;
+	}
+	
+	.flex_ourservices{
+		justify-content: space-around;
+	}
+	.flex_blog{
+		flex-direction: column;
+		align-items: center;
+	}
+	.flex_reviews{
+		flex-direction: column;
+		align-items: center;
+	}
+	.flex_contacts{
+		flex-direction: column;
+		align-items: center;
+	}
+
+
+
+	
+
+
+
+}
+@media screen and (max-width: 1323px){
+	
+	.flex_wps{
+		flex-direction: column;
+		align-content: center;
+
+	}
+	.flex_foot{
+		flex-direction: column;
+		align-items: center;
+	}
+	.flex_contacts{
+		flex-direction: column;
+		align-items: center;
+	}
+	.foot_title{
+		text-align: center;
+
+	}
+	.foot_head{
+		text-align: center;
+	}
+	.lab{
+		align-items: center;
+	}
+	.input{
+		width: 65%;
+	}
+	.flex_end{
+		flex-direction: column;
+		align-items: center;
+	}
+	.feanav_active{
+		font-weight: normal
+		padding:16px 25px;
+	}
+	.feanav{
+		padding: 16px 25px;
+		font-weight: normal;
+	}
+	.flex_ourworkflow{
+		flex-direction: column;
+		align-items:  center;
+	}
+	.owf_words{
+		width: 60%;
+	}
+	.wps{
+		width: 60%;
+	}
+	.wps_{
+		margin-bottom: 200px;
+	}
+	.flex_com{
+		flex-direction: column;
+		align-items: center;
+	}
+	.first_box{
+		width: 41%;
+	}
+}
